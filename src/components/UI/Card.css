@@ -1,0 +1,12 @@
+.card {
+  background-color: #F1E9DA;  
+  border-radius: 12px;
+  box-shadow: 0 1px 8px hsla(0, 0%, 0%, 0.89);
+  margin: 2%;
+  padding: .5%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 150%;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}

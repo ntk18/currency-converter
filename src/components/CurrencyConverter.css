@@ -1,0 +1,12 @@
+.answer {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 80%;
+}
+
+input {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 80%;
+    width: 25%;
+    padding: .5%;
+    text-align: right;
+}
